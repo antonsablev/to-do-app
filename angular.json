@@ -40,6 +40,9 @@
             }
           },
           "configurations": {
+            "github-pages": {
+              "baseHref": "/angular-to-do-app/"
+            },
             "production": {
               "budgets": [
                 {
